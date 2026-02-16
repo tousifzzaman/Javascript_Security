@@ -83,6 +83,7 @@ for (let fruit of fruits) {
 for (let fruit in fruits) {
    console.log(fruit);
 }
+//////hey practice........
 
 
 
